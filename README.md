@@ -8,17 +8,17 @@ de requisitos específicos.
 
 ## Requisitos Funcionais:
 
-● Autenticação e Autorização:
+1. Autenticação e Autorização:
 Implementar um sistema de autenticação seguro para os usuários.
-● Cadastro de Vagas:
+2. Cadastro de Vagas:
 Permitir que os administradores cadastrem novas vagas, incluindo
 informações como título, descrição e requisitos.
 Possibilitar a atualização e exclusão de vagas.
-● Candidatura a Vagas:
+3. Candidatura a Vagas:
 Implementar um sistema de candidatura às vagas, onde os usuários
 podem expressar interesse em uma posição específica.
 Enviar notificações aos responsáveis pela vaga e ao candidato.
-● Painel do Candidato (Bônus):
+4. Painel do Candidato (Bônus):
 Criar um painel para os candidatos acompanharem o status de suas
 candidaturas e receberem feedbacks.
-● Avaliação de Candidatos (Bônus):
+5. Avaliação de Candidatos (Bônus):
